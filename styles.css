@@ -495,6 +495,7 @@ STEPS
   fill: currentColor;
 }
 
+
 /* 
 
 VALUES 
@@ -775,6 +776,7 @@ PRICING
   justify-content: space-between;
 }
 
+
 /* 
 
 TESTIMONIALS 
@@ -782,6 +784,10 @@ TESTIMONIALS
 */
 section #testimonials {
   padding: 0px;
+}
+
+.section__title {
+    text-align: left;
 }
 
 #testimonials .container {
