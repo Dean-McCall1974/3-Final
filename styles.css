@@ -588,7 +588,7 @@ PRICING
 */
 
 #pricing .row {
-  display: flex;/
+  display: flex;
   flex-direction: column;
   align-items: center;
 }
