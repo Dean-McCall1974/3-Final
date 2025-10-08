@@ -1272,8 +1272,10 @@ MOBILE
     margin-right: 0px;
   }
   #features .section__title,
-  #pricing .section__title {
+  #pricing .section__title 
+  #testimonials .section__title {
     font-size: 48px;
+    text-align: center;
   }
 
   #testimonials .container {
@@ -1315,6 +1317,11 @@ MOBILE
   .feature {
     width: auto;
     max-width: 384px;
+  }
+
+  .section__title {
+    margin: 0 auto;
+    text-align: center;
   }
   .section__para {
     font-size: 14px;
